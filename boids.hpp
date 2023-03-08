@@ -12,3 +12,4 @@ class Boids {
  public:
   double distance(Boids const& b1, Boids const& b2);
 };
+//bvdius
